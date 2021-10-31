@@ -1,0 +1,10 @@
+1	9783161484100	Harry Potter and The Deathly Hallows	J.K Rowling	1/8/2010	1245	
+2	9783161484105	A Game of Thrones	George R.R Martin	1/8/2014	0	
+3	9783161484100	Harry Potter and The Deathly Hallows	J.K Rowling	1/8/2010	0	
+4	9783161483682	To Kill a Mockingbird	Harper Lee	2/4/2004	1067	
+5	9783161480982	Animal Farm	George Orwell	1/1/2000	1003	
+6	9783161484101	Lord of the Flies	William Golding	16/3/2011	0	
+7	9783161484102	The Hunger Games	Suzanne Collins	23/6/2012	0	
+8	9783161484102	The Hunger Games	Suzanne Collins	23/6/2012	0	
+9	9783161482322	Skellig	David Almond	3/2/2002	0	
+10	9783161484199	Gone Girl	Gillian Flynn	12/11/2016	1076
